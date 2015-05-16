@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## 7-Zip
+sudo apt-get install p7zip p7zip-full p7zip-rar lzma lzma-dev
+
 ## Preload
 sudo apt-get install preload -y ;
 
